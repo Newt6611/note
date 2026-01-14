@@ -183,8 +183,9 @@
       "bases:Create new base": false
     }
   },
-  "active": "176a3efd072e064f",
+  "active": "4aaaeedf0895f154",
   "lastOpenFiles": [
+    "README.md",
     "devops",
     "ethereum/blob_lifecycle.md",
     "devops/bitwarden_ssh_setup.md",
