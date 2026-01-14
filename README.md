@@ -1,3 +1,3 @@
 # Study Notes
 
-This repository contains my personal study notes, organized and curated with the assistance of Gemini.
+This is a collection of my personal Obsidian study notes, organized and curated with the assistance of Gemini.
