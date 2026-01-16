@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "devops/bitwarden_ssh_setup.md",
+                "file": "eips/eip-20.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "bitwarden_ssh_setup"
+              "title": "eip-20"
             }
           }
         ]
@@ -185,17 +185,18 @@
   },
   "active": "4aaaeedf0895f154",
   "lastOpenFiles": [
+    "eips/eip-155.md",
+    "eips/eip-2028.md",
+    "eips/new_eip_prompt.md",
+    "eips/eip-20.md",
+    "eips/eip-4844.md",
+    "devops/bitwarden_ssh_setup.md",
     "README.md",
     "devops",
     "ethereum/blob_lifecycle.md",
-    "devops/bitwarden_ssh_setup.md",
-    "eips/eip-4844.md",
-    "eips/eip-2028.md",
-    "eips/new_eip_prompt.md",
     "00_Start_Here.md",
     "ethereum/calldata.md",
     "eips/eip-2929.md",
-    "eips/eip-155.md",
     "eips/eip-2718.md",
     "ethereum/memory_stack.md",
     "ethereum/storage.md",
